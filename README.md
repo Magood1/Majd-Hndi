@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Magd Hndi
 
-🎓 Final-year Software Engineering student | 🧠 AI for Healthcare Enthusiast | 🛠️ Backend Developer (FastAPI, Flask)  
+🎓 Final-year Software Engineering student | 🧠 AI for Healthcare Enthusiast | 🛠️ Backend Developer (FastAPI, Flask, DRF)  
 📍 Based in Syria | 🌐 Open to remote work opportunities in AI, health-tech, and backend engineering.
 
 ---
